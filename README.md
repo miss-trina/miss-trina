@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/dot-portrait.jpeg" width="200" alt="dot art portrait" />
+
 <!-- Animated typing header -->
 <a href="https://github.com/miss-trina">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Trina+%F0%9F%91%8B;Data+Science+%26+Analytics+Enthusiast;B.Sc+IT+(Data+Science)+%40+MAKAUT;SQL+%7C+Python+%7C+Data+Viz+%7C+Web+Dev" alt="Typing SVG" />
@@ -65,6 +67,14 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miss-trina&layout=compact&hide_border=true" width="50%" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/miss-trina/miss-trina/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
