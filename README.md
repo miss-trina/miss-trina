@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/dot-portrait.jpeg" width="200" alt="dot art portrait" />
-
 <!-- Animated typing header -->
 <a href="https://github.com/miss-trina">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Trina+%F0%9F%91%8B;Data+Science+%26+Analytics+Enthusiast;B.Sc+IT+(Data+Science)+%40+MAKAUT;SQL+%7C+Python+%7C+Data+Viz+%7C+Web+Dev" alt="Typing SVG" />
